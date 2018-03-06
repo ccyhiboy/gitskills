@@ -1,2 +1,2 @@
 Ceating a new branck is pretty fast
-Creating a new branch is quick and simple.
+Creating a new branch is quick and simple.Merge this aha?
